@@ -1,4 +1,4 @@
-# Exact Healtcare
+# Exact Healtcare (Коммерческий проект, верстка макета)
 ## Сервис, позволяющий получить медицинскую помощь
 - 1 страница [ссылка](https://tony-kush.github.io/Exact-Healtcare/)
-- HTML, SCSS, Flex, Grid, PopUp, JS
+- Адаптивная кроссбраузерная верстка (HTML, SCSS, Flex, Grid, PopUp, JS)
